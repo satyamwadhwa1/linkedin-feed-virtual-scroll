@@ -174,9 +174,3 @@ The tests cover the main components and their functionality, including:
 7. Optimize images and implement lazy loading for media content.
 8. Implement error boundaries for better error handling in the React application.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
