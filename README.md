@@ -1,5 +1,9 @@
 # LinkedIn-like Feed with Virtual Scrolling
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
